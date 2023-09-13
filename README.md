@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Rizwan<br>🔭 I’m currently working on ERP<br>🌱 I’m currently learning Angular<br>💬 Ask me about Just Ask<br>📫 How to reach me: Visit Website or Mail Me<br>😄 Pronouns: He<br>⚡ Fun fact: I am boring.<br>
+👋 I’m Rizwan<br>🔭 I’m currently working on ERP & Hospital Management Software<br>🌱 I’m currently learning Angular<br>💬 Ask me about Just Ask<br>📫 How to reach me: Visit Website or Mail Me<br>😄 Pronouns: He<br>⚡ Fun fact: I am boring.<br>
 
 
 > **"So be patient. Indeed, the promise of ALLAH is truth"**  
