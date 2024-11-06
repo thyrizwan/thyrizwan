@@ -20,4 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thyrizwan&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thyrizwan&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=thyrizwan&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 [![](https://visitcount.itsvg.in/api?id=thyrizwan&icon=0&color=1)](https://visitcount.itsvg.in)
