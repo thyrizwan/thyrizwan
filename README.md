@@ -89,18 +89,21 @@ Building powerful SaaS verticals:
 </div>
 
 ---
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thyrizwan&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<!-- Profile Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thyrizwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyrizwan&layout=compact&theme=react&hide_border=true" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thyrizwan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thyrizwan&theme=react&hide_border=true" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=thyrizwan&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
 
 ---
 
