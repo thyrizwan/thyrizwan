@@ -60,7 +60,7 @@ Building powerful SaaS verticals:
 
 ### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap" />
 </div>
 
 ### **Backend**
