@@ -1,19 +1,157 @@
 # 💫 About Me:
-👋 I'm **Rizwan Ansari**, and I'm currently dividing my time between two exciting workplaces, [Tru Uni Soft](https://www.truunisoft.com) and [Digital Melodic](https://www.digitalmelodic.com), where I'm deeply involved in the tech world. My current learning journey involves mastering Angular and exploring the versatile world of Dart with Flutter for web and mobile app development. Whether it's tech-related or not, you can ***"Ask me about"*** anything without hesitation; I'm always eager to help and share knowledge. Beyond my work and tech interests, I have a deep passion for food and enjoy delving into literature. I take pride in my insatiable curiosity for knowledge, which keeps me engaged and motivated. To reach out, you can visit my website or send me an email. Let's connect and discuss our shared interests and the wonders of the digital world!<br>
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=28&center=true&vCenter=true&width=900&lines=Rizwan+Ansari;Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+SaaS+Architect;Founder+of+Tru+Uni+Soft;Building+Scalable+%26+Elegant+Digital+Solutions" />
+</div>
 
+<br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-Backend-E83A2C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Developer-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+---
+
+## 🧑‍💻 **Hi, I'm Rizwan Ansari**
+Full-Stack Developer, Designer, and Founder of **Tru Uni Soft**, where I build **SaaS platforms**, **enterprise systems**, and **clean, scalable digital solutions**.
+
+I focus on turning complex logic into smooth user experiences, architecting high-performance applications, and creating modular systems that scale.
+
+---
+
+## 🕋 **Personal Quote**
 > **"So be patient. Indeed, the promise of ALLAH is truth"**  
-> *- Al-Qur'an 30:60*
+> *— Al-Qur'an 30:60*
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ThyRizwan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thyrizwan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thyrizwan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ThyRizwan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThyRizwan) 
+## 🚀 **What I Do**
+- Full-Stack Web Development  
+- SaaS Architecture & Multi-Product Dev  
+- UI/UX & Frontend Engineering  
+- Backend APIs, Authentication & DevOps  
+- Mobile App Development (Flutter)  
+- Business & Technical Consulting  
 
-# 💻 As a developer, I have a little knowledge of:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
 
-# 🖌️ As a designer, I have a little knowledge of:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 🏢 **My Company — Tru Uni Soft**
+Building powerful SaaS verticals:
+
+- 💉 **Truhos** – Healthcare, Lab, Pharmacy  
+- 🏫 **Truedu** – School, College, LMS  
+- 🏨 **Truinn** – Hotel, POS, Restaurant  
+- 🧾 **Truerp** – ERP, HRM, CRM, Inventory  
+- 📱 New Projects – EMI Device Lock SaaS, Finance Tracker App, etc.
+
+---
+
+## 🌐 **My Websites**
+- 🔗 **Visit:** https://www.thyrizwan.com  
+- 🔗 **Visit 2:** https://www.imrizwan.in  
+- 🔧 **GitHub:** https://www.github.com/thyrizwan  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express" />
+</div>
+
+### **Mobile / Desktop**
+<div>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</div>
+
+### **Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,linux,vscode,git,github,nginx" />
+</div>
+
+### **Design Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" />
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thyrizwan&show_icons=true&theme=react&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyrizwan&layout=compact&theme=react&hide_border=true" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thyrizwan&theme=react&hide_border=true" />
+
+</div>
+
+---
+
+## 📂 **Highlighted Projects**
+### 🧪 **MockTestApp**
+Quiz & Exam App with streaks, AI recommendations, timed exams.
+
+### 🏥 **Tru Uni Soft SaaS Ecosystem**
+Modular ERP, LMS, Clinic, Pharmacy, POS systems.
+
+### 💳 **Thy Fin**
+Private, offline-first manual finance tracker.
+
+---
+
+## 🤝 **Connect With Me**
+
+<div align="center">
+
+### 🔗 **Social Links**
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thyrizwan)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thyrizwan)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thyrizwan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thyrizwan)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/thyrizwan)  
+
+---
+
+### 📬 **Contact Info**
+
+[![Email](https://img.shields.io/badge/Email-thyrizwan%40zohomail.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyrizwan@zohomail.in)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919735350687)
+
+📞 **Phone:** +91 97353 50687
+
+</div>
+
+---
+
+## 🖤 **Final Words**
+I’m constantly learning, building, and improving — one line of code at a time.
+
+<div align="center">
+
+**Thanks for visiting my profile!**  
+⭐ *Feel free to star repositories you like.*
+
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thyrizwan&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
