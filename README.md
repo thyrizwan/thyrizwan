@@ -102,6 +102,11 @@ Building powerful SaaS verticals:
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=thyrizwan&theme=tokyonight&hide_border=true" height="180"/>
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=thyrizwan&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=thyrizwan&icon=0&color=1)](https://visitcount.itsvg.in)
+
 </div>
 
 
@@ -154,14 +159,3 @@ I’m constantly learning, building, and improving — one line of code at a tim
 ⭐ *Feel free to star repositories you like.*
 
 </div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thyrizwan&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thyrizwan&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thyrizwan&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=thyrizwan&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=thyrizwan&icon=0&color=1)](https://visitcount.itsvg.in)
